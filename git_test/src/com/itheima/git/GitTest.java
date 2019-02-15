@@ -6,4 +6,9 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("boom~~~boom");
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }
