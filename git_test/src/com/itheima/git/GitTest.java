@@ -7,8 +7,7 @@ public class GitTest {
         System.out.println("boom~~~boom");
     }
 
-    @Override
-    public int hashCode() {
-        return super.hashCode();
-    }
+  public void method(){
+      System.out.println("update messages");
+  }
 }
